@@ -2,21 +2,15 @@
 
 🔭 I’m currently working on:
 - Building decentralized applications on Starknet.
-- Exploring advanced features in Rust for smart contracts.
-- Contributing to the Trustless-Work escrow project.
+- Building a school dashboard
 
 🌱 I’m currently learning:
 - Cairo 1.x syntax and features.
-- Advanced Go patterns for web development.
-
-### Skills
-- **Languages:** Rust, Go, TypeScript, Cairo
-- **Frameworks/Platforms:** Starknet, Soroban, Node.js
-- **Tools:** Git, Docker, Starknet Foundry
+- Advanced Nextjs for web development.
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 <img src="https://img.shields.io/badge/Starknet-black?style=for-the-badge&logo=starknet&logoColor=white" alt="Starknet"/>
 
 [![Emmanex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanex01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
