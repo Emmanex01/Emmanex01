@@ -19,8 +19,8 @@
 
 📫 How to reach me:
 - LinkedIn: [Emmanuel Tochukwu](https://www.linkedin.com/in/tochukwu-nwanosike-360326247)
-- Twitter: [@YourHandle](https://x.com/Emmanue56879580?t=GM3wLjFDOp1ZpVmRNX0kjg&s=09)
-- Email: your.email@example.com
+- Twitter: [X](https://x.com/Emmanue56879580?t=GM3wLjFDOp1ZpVmRNX0kjg&s=09)
+- Email: nwanosiketochukwu99@gmail.com
 <!--
 **Emmanex01/Emmanex01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
