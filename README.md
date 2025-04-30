@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Emmanuel Tochukwu
 
 🔭 I’m currently working on:
 - Building decentralized applications on Starknet.
